@@ -1,0 +1,6 @@
+Ingredients:
+ - potatoes
+Directions:
+1.peel potatoes
+2.cut potatoes
+3.fry potatoes
